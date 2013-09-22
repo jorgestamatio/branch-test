@@ -14,12 +14,14 @@
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
+        <header>
+            <h1>Hello</h1>            
+        </header>
 
         <h1>hello!</h1>
 
 
         <script src="js/vendor/jquery-2.0.3.min.js"></script>
-        <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
 
     </body>
